@@ -1,0 +1,19 @@
+.carousel-caption {
+  color: black;
+}
+#myCarousel{
+  color: black;
+}
+.carousel-indicators li {
+    background-color: blue;
+    box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);
+}
+.carousel-indicators .active {
+    background-color: #ffff99;
+}
+.logo {
+
+  display:inline-block;
+  vertical-align:middle;
+  margin-top:20px;
+}
